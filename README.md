@@ -2,4 +2,6 @@
 Final Year Project for Advanced Depth-Sensing Algorithms
 
 
-Code Tutorial and Working Documentation for the proposed research, code kept confidential until final publication notice.
+Code Tutorial and Working Documentation for the proposed research : https://github.com/khanfarhan10/ADASVehicleTracking.
+
+
